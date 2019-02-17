@@ -5,7 +5,7 @@ class Settings():
         """初始化游戏的设置"""
         # 屏幕设置
         self.screen_width = 720
-        self.screen_heigth = 480
+        self.screen_height = 480
         self.bg_color = (230, 230, 230)
 
         # 飞船的设置
